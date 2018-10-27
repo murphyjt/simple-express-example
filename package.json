@@ -1,0 +1,9 @@
+{
+  "name": "simple-express-example",
+  "version": "1.0.0",
+  "description": "A simple express server example",
+  "main": "index.js",
+  "repository": "https://github.com/murphyjt/simple-express-example",
+  "author": "Joshua Murphy",
+  "license": "MIT"
+}

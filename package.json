@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/murphyjt/simple-express-example",
   "author": "Joshua Murphy",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
